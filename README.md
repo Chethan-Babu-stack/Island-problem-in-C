@@ -3,10 +3,10 @@ Finding number of cows and sheeps in a 2D area.
 
 
 
-#include<stdio.h>
-#include<string.h>
-#include<math.h>
-#include<stdlib.h>
+//#include<stdio.h>
+//#include<string.h>
+//#include<math.h>
+//#include<stdlib.h>
 
 int r,c,res,count=0,res=0;
 
